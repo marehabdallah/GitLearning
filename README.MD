@@ -4,6 +4,6 @@
 Learn all while you still you can
 ```
 <?php
-echo "Hello World";
+echo "Hello World ";
 ?>
 ```
